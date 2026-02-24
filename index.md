@@ -23,7 +23,15 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
             </tr>
         </thead>
         <tbody>
-            <tr>
+                <tr>
+                    <td>French</td>
+                    <td><audio controls preload="none"><source src="resources/audios/sources/fr-fr_1018_rgVjL8UBkWc.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
+                    <td>only the denial of freedom. But it is also misery, it is also lack of hygiene, lack of care, overcrowding, and a whole load of things which are really inhuman.</td>
+                    <td><h4>LibriTTS (no VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_no_vad/fr-fr_1018_rgVjL8UBkWc.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+                    <h4>LibriTTS (VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_vad/fr-fr_1018_rgVjL8UBkWc.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+                    <h4>Multilingual (VAD)</h4><audio controls preload="none"><source src="resources/audios/multi_vad/fr-fr_1018_rgVjL8UBkWc.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
                     <td>Portuguese</td>
                     <td><audio controls preload="none"><source src="resources/audios/sources/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                     <td>Today I&#x27;m organizing a co-operative society where I want to give opportunity for other inmates, for young people who come from correctional institutes.</td>
@@ -65,14 +73,6 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
                 </tr>
                 <tr>
                     <td>Russian</td>
-                    <td><audio controls preload="none"><source src="resources/audios/sources/ru-ru_1719_fOu3b6HfCeY.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td>So if you&#x27;re not only interested in American movies, but also like European and Asian films, you might have sushi and risotto on your menu, while other pages are still torn out.</td>
-                    <td><h4>LibriTTS (no VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_no_vad/ru-ru_1719_fOu3b6HfCeY.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-                    <h4>LibriTTS (VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_vad/ru-ru_1719_fOu3b6HfCeY.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-                    <h4>Multilingual (VAD)</h4><audio controls preload="none"><source src="resources/audios/multi_vad/ru-ru_1719_fOu3b6HfCeY.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                </tr>
-                <tr>
-                    <td>Russian</td>
                     <td><audio controls preload="none"><source src="resources/audios/sources/ru-ru_1843_MOwGqmuJ8lU.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                     <td>If a reputable TV show hosts a biologist, it will definitely invite someone who stands against vaccination or GMOs, just to make sure we hear all sides.</td>
                     <td><h4>LibriTTS (no VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_no_vad/ru-ru_1843_MOwGqmuJ8lU.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
@@ -86,14 +86,6 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
                     <td><h4>LibriTTS (no VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_no_vad/ru-ru_1044_g-p8QH574uk.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
                     <h4>LibriTTS (VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_vad/ru-ru_1044_g-p8QH574uk.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
                     <h4>Multilingual (VAD)</h4><audio controls preload="none"><source src="resources/audios/multi_vad/ru-ru_1044_g-p8QH574uk.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                </tr>
-                <tr>
-                    <td>French</td>
-                    <td><audio controls preload="none"><source src="resources/audios/sources/fr-fr_1018_rgVjL8UBkWc.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td>only the denial of freedom. But it is also misery, it is also lack of hygiene, lack of care, overcrowding, and a whole load of things which are really inhuman.</td>
-                    <td><h4>LibriTTS (no VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_no_vad/fr-fr_1018_rgVjL8UBkWc.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-                    <h4>LibriTTS (VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_vad/fr-fr_1018_rgVjL8UBkWc.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-                    <h4>Multilingual (VAD)</h4><audio controls preload="none"><source src="resources/audios/multi_vad/fr-fr_1018_rgVjL8UBkWc.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
         </tbody>
     </table>
