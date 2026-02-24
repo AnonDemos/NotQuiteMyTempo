@@ -10,7 +10,7 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
     <p>Automatic lip-synchronous dubbing requires a speech synthesis model to generate alternating voice and silence patterns
     that match the timing of the original clip to ensure the best user experience. So far, this problem has been addressed by conditioning the speech synthesis process on lip movements extracted from the video signal. In this work, we condition speech generation on binary voice-activity signal, which has a lightweight representation and can be obtained in multiple ways, and show that the model follows the signal with high accuracy.</p>
     <div style="text-align: center;">
-        <img src="resources/images/sys_graph_VAD.jpg" width="600px">
+        <img src="resources/images/sys_graph_VAD.png" width="600px">
     </div>
     <h2>Demo samples from the subjective listening test</h2>
     <table style='width: 100%;'>
