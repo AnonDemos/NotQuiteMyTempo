@@ -12,8 +12,10 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
     <div style="text-align: center;">
         <img src="resources/images/sys_graph_VAD.png" width="600px">
     </div>
-        
-    <h2>Example Samples from the Subjective Evaluation</h2>
+
+                <br><br><br>
+
+    <h2>Examples from the Subjective Evaluation</h2>
     <table style='width: 100%;'>
         <thead>
             <tr>
@@ -34,19 +36,19 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
                 </tr>
                 <tr>
                     <td>Portuguese</td>
-                    <td><audio controls preload="none"><source src="resources/audios/sources/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td style="text-align: left;">Today I&#x27;m organizing a co-operative society where I want to give opportunity for other inmates, for young people who come from correctional institutes.</td>
-                    <td><h4>LibriTTS (no VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_no_vad/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-                    <h4>LibriTTS (VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_vad/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-                    <h4>Multilingual (VAD)</h4><audio controls preload="none"><source src="resources/audios/multi_vad/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                </tr>
-                <tr>
-                    <td>Portuguese</td>
                     <td><audio controls preload="none"><source src="resources/audios/sources/pt-pt_1044_gMWud6IZQ3A.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                     <td style="text-align: left;">I would like to end with this message from Madiba, that synthesizes all what I think as an educator.</td>
                     <td><h4>LibriTTS (no VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_no_vad/pt-pt_1044_gMWud6IZQ3A.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
                     <h4>LibriTTS (VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_vad/pt-pt_1044_gMWud6IZQ3A.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
                     <h4>Multilingual (VAD)</h4><audio controls preload="none"><source src="resources/audios/multi_vad/pt-pt_1044_gMWud6IZQ3A.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                    <td>Portuguese</td>
+                    <td><audio controls preload="none"><source src="resources/audios/sources/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
+                    <td style="text-align: left;">Today I&#x27;m organizing a co-operative society where I want to give opportunity for other inmates, for young people who come from correctional institutes.</td>
+                    <td><h4>LibriTTS (no VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_no_vad/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+                    <h4>LibriTTS (VAD)</h4><audio controls preload="none"><source src="resources/audios/libritts_vad/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+                    <h4>Multilingual (VAD)</h4><audio controls preload="none"><source src="resources/audios/multi_vad/pt-pt_344_MwRGd5YN9oo.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
                     <td>Greek</td>
@@ -93,7 +95,7 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
         
         <br><br><br>
         
-        <h2>Example Samples from the Qualitative Analysis</h2>
+        <h2>Examples from the Qualitative Analysis</h2>
     <table style='width: 100%;'>
         <thead>
             <tr>
