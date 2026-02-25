@@ -139,23 +139,21 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
                 <tr>
                     <td style="text-align: left;">✅ One pause, many words</td>
                     <td><audio controls preload="none"><source src="resources/qualitative/12345_678910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td style="text-align: left;">I really do like to eat fruit sometimes, like for example apples and also pears.</td>
+                    <td style="text-align: left;">I really do like to eat fruit from time to time, like for example apples and also pears.</td>
                     <td><audio controls preload="none"><source src="resources/qualitative/faster.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td style="text-align: left;">❌ Two pauses, text only has one good pause location</td>
+                    <td style="text-align: left;">❌ Two pauses, too many words, text only has one good pause location</td>
                     <td><audio controls preload="none"><source src="resources/qualitative/1234_567_8910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td style="text-align: left;">I really like to eat fruit sometimes, like for example apples and also pears.</td>
+                    <td style="text-align: left;">I really like to eat fruit from time to time, like for example apples and also pears.</td>
                     <td><audio controls preload="none"><source src="resources/qualitative/faster_two_pauses.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td style="text-align: left;">✅ Two pauses, many words, but adapted to number of pauses</td>
+                    <td style="text-align: left;">✅ Two pauses, even more words, but structure adapted to number of pauses</td>
                     <td><audio controls preload="none"><source src="resources/qualitative/1234_567_8910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                     <td style="text-align: left;">I really like to eat fruit sometimes, I really do enjoy it a lot, like for example apples and pears.</td>
                     <td><audio controls preload="none"><source src="resources/qualitative/two_pauses_adapted.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
-                
-                
         </tbody>
     </table>
     </body>
