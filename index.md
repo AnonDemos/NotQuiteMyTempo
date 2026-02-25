@@ -102,49 +102,49 @@ title: "Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchr
         </thead>
         <tbody>
                 <tr>
-                    <td>One pause, few words ✅</td>
+                    <td>✅ One pause, few words</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/12345_678910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                     <td>I like to eat fruit sometimes, like apples and pears.</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/slower.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td>One pause, many words ✅</td>
+                    <td>✅ One pause, many words</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/12345_678910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                     <td>I really do like to eat fruit sometimes, like for example apples and also pears.</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/faster.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td>One pause, comma too early ❌</td>
+                    <td>❌One pause, comma too early</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/12345_678910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td>1 2 3 4, 5 6 7 8 9 10</td>
+                    <td>1 2 3 4 , 5 6 7 8 9 10</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/4comma.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td>One pause, comma in vicinity ✅</td>
+                    <td>✅ One pause, comma in vicinity</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/12345_678910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td>1 2 3 4 5, 6 7 8 9 10</td>
+                    <td>1 2 3 4 5 , 6 7 8 9 10</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/5comma.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td>One pause, comma in vicinity ✅</td>
+                    <td>✅ One pause, comma in vicinity</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/12345_678910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td>1 2 3 4 5 6, 7 8 9 10</td>
+                    <td>1 2 3 4 5 6 , 7 8 9 10</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/6comma.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td>One pause, comma too late ❌</td>
+                    <td>❌One pause, comma too late</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/12345_678910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
-                    <td>1 2 3 4 5 6 7, 8 9 10</td>
+                    <td>1 2 3 4 5 6 7 , 8 9 10</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/7comma.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td>Two pauses, text only has one good pause location ❌</td>
+                    <td>❌Two pauses, text only has one good pause location</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/1234_567_8910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                     <td>I really like to eat fruit sometimes, like for example apples and also pears.</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/faster_two_pauses.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                 </tr>
                 <tr>
-                    <td>Two pauses, many words, but adapted to number of pauses ✅</td>
+                    <td>✅ Two pauses, many words, but adapted to number of pauses</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/1234_567_8910.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
                     <td>I really like to eat fruit sometimes, I really do enjoy it a lot, like for example apples and pears.</td>
                     <td><audio controls preload="none"><source src="resources/audios/qualitative/two_pauses_adapted.wav" type="audio/mpeg">Your browser does not support the audio element.</audio></td>
